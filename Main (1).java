@@ -11,8 +11,8 @@ class Main {
     int y=s.nextInt();
     System.out.println("value of x is "+ x);
     System.out.println("value of y is "+ y);
-    x = x * y; // x now becomes 50
-    y = x / y; // y becomes 10
+    x = x * y; 
+    y = x / y; 
     x = x / y;
     System.out.println("value of x is "+ x);
     System.out.println("value of y is "+ y);
